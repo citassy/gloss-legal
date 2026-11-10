@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support – Gloss</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; color: #3a3a3a; line-height: 1.6; max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; font-size: 16px; }
+  h1 { color: #000; font-size: 28px; margin-bottom: 4px; }
+  h2 { color: #000; font-size: 20px; margin-top: 36px; }
+  h3 { color: #000; font-size: 17px; margin: 24px 0 4px; }
+  p { margin: 6px 0 12px; }
+  a { color: #3030F1; word-break: break-word; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  .contact { background: #f5f5f7; border-radius: 12px; padding: 16px 20px; }
+  .muted { color: #777; font-size: 14px; }
+</style>
+</head>
+<body>
+ 
+<h1>Gloss Support</h1>
+<p class="muted">Gloss is a reading app where friends share notes on books.</p>
+ 
+<div class="contact">
+<p><strong>Need help?</strong> Email us at <a href="mailto:team.gloss.books@gmail.com">team.gloss.books@gmail.com</a>. We usually reply within 1–2 days. To report harmful content or a person, please use Report in the app; reports are reviewed within 24 hours.</p>
+</div>
+ 
+<h2>Frequently asked questions</h2>
+ 
+<h3>How do I add a book?</h3>
+<p>Tap <strong>+</strong> on the Books tab and choose an EPUB file, or open an EPUB from the Files app, Mail or another app and choose Gloss. Gloss doesn't sell books: you can use EPUB files you own, for example from DRM-free shops or free public-domain libraries such as Standard Ebooks and Project Gutenberg. Books protected with DRM can't be opened.</p>
+ 
+<h3>A book says "Not on this device". What does that mean?</h3>
+<p>Your library syncs across your devices, but the book files themselves stay on the device where you added them. To read the book on another device, add the same EPUB file there and it links to your existing book, with your progress and notes.</p>
+ 
+<h3>How do I share notes with a friend?</h3>
+<p>Add your friend on the Friends tab. Then, in a note, tap the sharing button and choose who to share it with. To share every new note in a book automatically, open the book's menu and choose <strong>Sharing</strong>. Your friend gets a notification and adds the notes to their own copy of the book.</p>
+ 
+<h3>Why are some of my friend's notes locked?</h3>
+<p>Friends' notes unlock as you read, so nobody spoils what comes next. A note becomes visible once you reach the page it's on.</p>
+ 
+<h3>Who can see my notes and replies?</h3>
+<p>Only you, unless you share them. Shared notes are visible to the friends you chose, and a conversation on a note is visible only to you and that one person.</p>
+ 
+<h3>Can I use Gloss offline?</h3>
+<p>Yes. Reading, notes, highlights and progress work offline and sync when you're back online. Replies you write offline in an existing conversation are sent automatically when you reconnect.</p>
+ 
+<h3>How do I report or block someone?</h3>
+<ul>
+  <li><strong>Report a note:</strong> open the note, tap its title at the top, then Report note.</li>
+  <li><strong>Report a message:</strong> long-press the message, then Report.</li>
+  <li><strong>Report or block a person:</strong> Friends tab → ⋯ next to their name → Report or Block.</li>
+  <li><strong>Unblock:</strong> Profile → Blocked users.</li>
+</ul>
+ 
+<h3>How do I delete my account?</h3>
+<p>In the app, go to <strong>Profile → Delete account</strong>. This permanently deletes your account and the data linked to it, including notes you shared with friends. Book files on your device are not affected; delete the app to remove them.</p>
+ 
+<h2>Legal</h2>
+<ul>
+  <li><a href="https://citassy.github.io/gloss-legal/terms-and-conditions.html">Terms and Conditions</a></li>
+  <li><a href="https://citassy.github.io/gloss-legal/privacy-policy.html">Privacy Policy</a></li>
+</ul>
+ 
+<p class="muted">Gloss Books (operated by Mai Phuong Vu) · <a href="mailto:team.gloss.books@gmail.com">team.gloss.books@gmail.com</a></p>
+ 
+</body>
+</html>
